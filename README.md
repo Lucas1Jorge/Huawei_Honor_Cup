@@ -20,4 +20,31 @@ borders and all the other blocks borders, considering the 4 possible directions:
 
 <b>Examples:</b>
 
+<div>
+  <img src="img/6_shuffled.png" width="33.4%">
+  <img src="img/6_reconstructed.jpeg" width="33.4%">
+</div>
+
+<div>
+  <img src="img/10_shuffled.png" width="33.4%">
+  <img src="img/10_reconstructed.jpeg" width="33.4%">
+</div>
+
+<div>
+  <img src="img/5_shuffled.png" width="33.4%">
+  <img src="img/5_reconstructed.jpeg" width="33.4%">
+</div>
+
+<div>
+  <img src="img/1_shuffled.png" width="33.4%">
+  <img src="img/1_reconstructed.jpeg" width="33.4%">
+</div>
+
+<div>
+  <img src="img/8_shuffled.png" width="33.4%">
+  <img src="img/8_reconstructed.jpeg" width="33.4%">
+</div>
+
+<br>
+
 <p>To improve the accuracy rate, post processing might be required.</p>
