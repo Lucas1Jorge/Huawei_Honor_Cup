@@ -9,12 +9,10 @@ An image was divided into a grid of mxm squared and shuffled. Reconstruct the or
 For each square block in the shuffled image, calculate the root squared difference between it's
 borders and all the other blocks borders, considering the 4 possible directions:
 
-<ul>
-  <li>left-right</li>
-  <li>botton-up</li>
-  <li>right-left</li>
-  <li>top-down</li>
-</ul>
+<p>left-right</p>
+<p>botton-up</p>
+<p>right-left</p>
+<p>top-down</p>
 
 <p>Build a graph using the blocks as nodes and these differences as weights.</p>
 
