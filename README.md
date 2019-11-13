@@ -2,7 +2,7 @@
 
 <b>Problem:</b>
 <br>
-An image was divided into a grid of mxm squared and shuffled. Reconstruct the original image
+An image was divided into a grid of <b>m</b>x<b>m</b> squares and shuffled. Reconstruct the original image
 
 <b>Solution approach:</b>
 <br>
