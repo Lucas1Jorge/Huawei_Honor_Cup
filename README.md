@@ -10,7 +10,7 @@ For each square block in the shuffled image, calculate the root squared differen
 borders and all the other blocks borders, considering the 4 possible directions:
 
 <p>left-right</p>
-<p>botton-up</p>
+<p>bottom-up</p>
 <p>right-left</p>
 <p>top-down</p>
 
